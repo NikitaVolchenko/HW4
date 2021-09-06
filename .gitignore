@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/out/
+.idea/
+*.iml
+.gradle
+!.idea/icon*.png
+build/
+src/main/gen
+src/main/resources/templates.list
+src/main/resources/gitignore/*
