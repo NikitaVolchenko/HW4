@@ -16,6 +16,10 @@ public class Zoo {
         }
     }
 
+    public void setAnimal(Animal animal, int i) {
+        animals[i] = animal;
+    }
+
     public void pushBack(Animal animal) {
         Animal[] buffer = animals.clone();
         size++;
